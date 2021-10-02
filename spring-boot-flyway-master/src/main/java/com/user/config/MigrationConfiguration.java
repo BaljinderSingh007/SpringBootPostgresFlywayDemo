@@ -1,4 +1,4 @@
-package com.test.config;
+package com.user.config;
 
 import org.flywaydb.core.Flyway;
 import org.springframework.boot.autoconfigure.flyway.FlywayMigrationInitializer;
